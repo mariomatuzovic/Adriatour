@@ -1,0 +1,449 @@
+[
+  {
+    "startLocation": {
+      "description": "Principovac, Croatia",
+      "type": "Point",
+      "coordinates": [19.358568, 45.19923],
+      "address": "Principovac BB, 32236, Ilok"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+    "startDates": [
+      "2021-06-19T09:00:00.000Z",
+      "2021-07-20T09:00:00.000Z",
+      "2021-08-18T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "The Wine Taster",
+    "duration": 3,
+    "maxGroupSize": 7,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+    "price": 1500,
+    "summary": "Exploring Ilok wine cellars, a historical winery in Eastern Croatia, exclusive barrel tastings and much more",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "imageCover": "tour-1-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Principovac",
+        "type": "Point",
+        "coordinates": [19.358568, 45.19923],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2958",
+        "description": "Ilok wine cellars",
+        "type": "Point",
+        "coordinates": [19.360754, 45.224212],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2957",
+        "description": "Memorial centre of Homeland War",
+        "type": "Point",
+        "coordinates": [19.003608, 45.338429],
+        "day": 3
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Plitvice, Croatia",
+      "type": "Point",
+      "coordinates": [15.62113, 44.881978],
+      "address": "D1, 53231, Plitvička Jezera"
+    },
+    "ratingsAverage": 5,
+    "ratingsQuantity": 9,
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "startDates": [
+      "2021-04-25T09:00:00.000Z",
+      "2021-07-20T09:00:00.000Z",
+      "2021-10-05T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2951",
+    "name": "The Waterfall Explorer",
+    "duration": 4,
+    "maxGroupSize": 25,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a1f292f8fb814b56fa184"
+    ],
+    "price": 1250,
+    "summary": "Exceptional natural beauty, internationally recognised by being added to UNESCO World Heritage List, this area has always attracted nature lovers",
+    "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nLorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+    "imageCover": "tour-2-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2954",
+        "description": "Plitvice Hotel and the Lake Kozjak ",
+        "type": "Point",
+        "coordinates": [15.62113, 44.881978],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2953",
+        "description": "Lower Lakes and the Great Waterfall",
+        "type": "Point",
+        "coordinates": [15.60787, 44.902342],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2952",
+        "description": "Prošćansko jezero",
+        "type": "Point",
+        "coordinates": [15.599567, 44.873128],
+        "day": 3
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Hotel Antunović, Zagreb",
+      "type": "Point",
+      "coordinates": [15.899266, 45.797299],
+      "address": "Zagrebačka avenija 100, 10000, Zagreb"
+    },
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 6,
+    "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+    "startDates": [
+      "2022-01-05T10:00:00.000Z",
+      "2022-02-12T10:00:00.000Z",
+      "2023-01-06T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295a",
+    "name": "The Tomb Raider",
+    "duration": 2,
+    "maxGroupSize": 10,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 800,
+    "summary": "Exploring one of the most unique cemeteries in the world, an architectural treasure designed by Hermann Bollé",
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+    "imageCover": "tour-3-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c295c",
+        "description": "Mirogoj Cemetery",
+        "type": "Point",
+        "coordinates": [15.983997, 45.835598],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295b",
+        "description": "Trakošćan Castle",
+        "type": "Point",
+        "coordinates": [15.94519, 46.257773],
+        "day": 2
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Park Plaza Histria Pula, Croatia",
+      "type": "Point",
+      "coordinates": [13.839497, 44.836363],
+      "address": "Verudela 17, 52100, Pula"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+    "startDates": [
+      "2021-08-05T09:00:00.000Z",
+      "2022-03-20T10:00:00.000Z",
+      "2022-08-12T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2961",
+    "name": "The Roman Emperor",
+    "duration": 7,
+    "maxGroupSize": 20,
+    "difficulty": "medium",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a201e2f8fb814b56fa186"
+    ],
+    "price": 3600,
+    "summary": "Sightseeing old Istrian cities and exploring Roman amphitheater, which was once the site of gladiator fights",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!",
+    "imageCover": "tour-4-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2965",
+        "description": "Roman amphitheater",
+        "type": "Point",
+        "coordinates": [13.850173, 44.873218],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2964",
+        "description": "City of Medulin",
+        "type": "Point",
+        "coordinates": [13.936736, 44.821177],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2963",
+        "description": "City of Rovinj",
+        "type": "Point",
+        "coordinates": [13.637307, 45.083404],
+        "day": 5
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2962",
+        "description": "City of Opatija",
+        "type": "Point",
+        "coordinates": [14.309207, 45.335633],
+        "day": 6
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Zadar, Croatia",
+      "type": "Point",
+      "coordinates": [15.223989, 44.118333],
+      "address": "Liburnska obala 6, 23000, Zadar"
+    },
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 5,
+    "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"],
+    "startDates": [
+      "2021-03-11T10:00:00.000Z",
+      "2021-05-02T09:00:00.000Z",
+      "2021-06-09T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295d",
+    "name": "The Salt Lakes",
+    "duration": 7,
+    "maxGroupSize": 20,
+    "difficulty": "medium",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+    "price": 4200,
+    "summary": "Exploring Dalmatian coast and cities by foot and by boat. Walking in nature, cruising, water sports and recreation.",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "imageCover": "tour-5-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2960",
+        "description": "Telašćica Nature Park",
+        "type": "Point",
+        "coordinates": [15.158451, 43.891197],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295f",
+        "description": "Beach Sakarun",
+        "type": "Point",
+        "coordinates": [14.87236, 44.133691],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295e",
+        "description": "Island of Rab",
+        "type": "Point",
+        "coordinates": [14.763082, 44.753645],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Bellevue Hotel Šibenik, Croatia",
+      "type": "Point",
+      "coordinates": [15.89177, 43.732945],
+      "address": "Obala hrvatske mornarice 1, 22000, Šibenik"
+    },
+    "ratingsAverage": 3.9,
+    "ratingsQuantity": 7,
+    "images": ["tour-6-1.jpg", "tour-6-2.jpg", "tour-6-3.jpg"],
+    "startDates": [
+      "2021-07-19T09:00:00.000Z",
+      "2021-09-06T09:00:00.000Z",
+      "2022-03-18T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2966",
+    "name": "The Fort Keeper",
+    "duration": 9,
+    "maxGroupSize": 10,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a1f292f8fb814b56fa184",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 4700,
+    "summary": "Exploring old and unique Renaissance buildings and forts of Venetian architecture by foot and by boat",
+    "description": "Nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nVoluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur!",
+    "imageCover": "tour-6-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296b",
+        "description": "St. Nicholas Fortress",
+        "type": "Point",
+        "coordinates": [15.854376, 43.722099],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296a",
+        "description": "Telaščica Nature Park",
+        "type": "Point",
+        "coordinates": [15.158451, 43.891197],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2969",
+        "description": "Krka National Park",
+        "type": "Point",
+        "coordinates": [15.973325, 43.861234],
+        "day": 5
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2968",
+        "description": "Diocletian's Palace",
+        "type": "Point",
+        "coordinates": [16.44024, 43.508544],
+        "day": 7
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Dubrovnik, Croatia",
+      "type": "Point",
+      "coordinates": [18.10473, 42.642707],
+      "address": "Ul. Marijana Blažića 2, 20000, Dubrovnik"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["tour-7-1.jpg", "tour-7-2.jpg", "tour-7-3.jpg"],
+    "startDates": [
+      "2021-03-23T10:00:00.000Z",
+      "2021-10-25T09:00:00.000Z",
+      "2022-01-30T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2970",
+    "name": "The Adriatic Pearl",
+    "duration": 4,
+    "maxGroupSize": 8,
+    "difficulty": "easy",
+    "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+    "price": 2200,
+    "summary": "Fans of history and fantasy alike will delight in all the sights and attractions in Dubrovnik, this Pearl of the Adriatic",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "imageCover": "tour-7-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2973",
+        "description": "Walls of Dubrovnik",
+        "type": "Point",
+        "coordinates": [18.11245, 42.639882],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2972",
+        "description": "The Gardens Of Maximilian",
+        "type": "Point",
+        "coordinates": [18.120547, 42.624718],
+        "day": 3
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Rijeka, Croatia",
+      "type": "Point",
+      "coordinates": [15.894432, 43.729675],
+      "address": "Obala hrvatske mornarice, 22000, Šibenik"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["tour-8-1.jpg", "tour-8-2.jpg", "tour-8-3.jpg"],
+    "startDates": [
+      "2021-12-16T10:00:00.000Z",
+      "2022-01-16T10:00:00.000Z",
+      "2022-12-12T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2974",
+    "name": "The Untouched Nature",
+    "duration": 2,
+    "maxGroupSize": 12,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a23412f8fb814b56fa18c"
+    ],
+    "price": 500,
+    "summary": "Exploring nature reserve Krka with walking trails, waterfalls & riverboat trips, plus monastic & castle ruins",
+    "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum!\nDolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur, exercitation ullamco laboris nisi ut aliquip. Lorem ipsum dolor sit amet, consectetur adipisicing elit!",
+    "imageCover": "tour-8-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2975",
+        "description": "Krka National Park",
+        "type": "Point",
+        "coordinates": [15.973325, 43.861234],
+        "day": 1
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Osijek, Croatia",
+      "type": "Point",
+      "coordinates": [18.679873, 45.562282],
+      "address": "Šamačka 4, 31000, Osijek"
+    },
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 7,
+    "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
+    "startDates": [
+      "2021-02-12T10:00:00.000Z",
+      "2021-04-14T09:00:00.000Z",
+      "2021-09-01T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c296c",
+    "name": "The Green Fields",
+    "duration": 5,
+    "maxGroupSize": 8,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
+    "price": 2600,
+    "summary": "Exquisite wines, scenic views, exclusive barrel tastings, cycling, trekking and much more",
+    "description": "Consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\nIrure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+    "imageCover": "tour-9-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296f",
+        "description": "Đakovo Cathedral",
+        "type": "Point",
+        "coordinates": [18.411496, 45.307916],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296e",
+        "description": "Memorial centre of Homeland War",
+        "type": "Point",
+        "coordinates": [19.003608, 45.338429],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296d",
+        "description": "Ilok wine cellars",
+        "type": "Point",
+        "coordinates": [19.360754, 45.224212],
+        "day": 5
+      }
+    ]
+  }
+]
