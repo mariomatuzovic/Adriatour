@@ -1116,7 +1116,7 @@ body {
     to(#3bd1b3)
   );
   background-image: linear-gradient(to right bottom, #22bfa0, #3bd1b3);
-  opacity: 0.7;
+  opacity: 0.4;
 }
 .card__picture-img {
   -o-object-fit: cover;
@@ -1258,10 +1258,10 @@ body {
 }
 .form__input:focus {
   outline: none;
-  border-bottom: 3px solid #22bfa0;
+  border-bottom: 2px solid #22bfa0;
 }
 .form__input:focus:invalid {
-  border-bottom: 3px solid #ff7730;
+  border-bottom: 2px solid #ff7730;
 }
 .form__input::-webkit-input-placeholder {
   color: #bbb;
